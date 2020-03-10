@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="MavenCustomPomFilePath">
+    <option name="mavenPomFileUrl" value="file://$MODULE_DIR$/pom.xml.in" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$/.mvn-compat/src/main/java">
+      <sourceFolder url="file://$MODULE_DIR$/.mvn-compat/src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/generated-sources/protobuf/java">
+      <sourceFolder url="file://$MODULE_DIR$/target/generated-sources/protobuf/java" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/test">
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:@GUAVA_VERSION@" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:@PROTOBUF_VERSION@" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty:@NETTY_VERSION@" level="project" />
+    <orderEntry type="library" name="Maven: com.stumbleupon:async:@SUASYNC_VERSION@" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper:@ZOOKEEPER_VERSION@" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:@SLF4J_API_VERSION@" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.slf4j:log4j-over-slf4j:@LOG4J_OVER_SLF4J_VERSION@" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:@HAMCREST_VERSION@" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:@JUNIT_VERSION@" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.javassist:javassist:@JAVASSIST_VERSION@" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-all:@MOCKITO_VERSION@" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.objenesis:objenesis:@OBJENESIS_VERSION@" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-module-junit4:@POWERMOCK_MOCKITO_VERSION@" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-api-mockito:@POWERMOCK_MOCKITO_VERSION@" level="project" />
+  </component>
+</module>
